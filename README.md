@@ -55,6 +55,14 @@ Here are a few things I've picked up along my learning journey.
   <img src="https://img.shields.io/badge/-Kanban-0079BF?style=for-the-badge" alt="Kanban">
 </div>
 
+## 📚 Study Projects
+Here are some repositories where I am currently studying and exploring new technologies:
+
+- [RestAssured Study Lab](https://github.com/andressaroberts/restassured_study_lab) - Exploring API testing with RestAssured
+
+_(More projects coming soon!)_
+
+
 
 ## 🔗 Get in touch
 
