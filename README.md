@@ -56,7 +56,7 @@ Here are a few things I've picked up along my learning journey.
 </div>
 
 ## 📚 Study Projects
-Here are some repositories where I am currently studying and exploring new technologies:
+Here are some repositories where I am practicing and refining my skills:
 
 - [RestAssured Study Lab](https://github.com/andressaroberts/restassured_study_lab) - Exploring API testing with RestAssured
 
