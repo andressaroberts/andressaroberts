@@ -59,6 +59,7 @@ Here are a few things I've picked up along my learning journey.
 Here are some repositories where I am practicing and refining my skills:
 
 - [RestAssured Study Lab](https://github.com/andressaroberts/restassured_study_lab) - Exploring API testing with RestAssured
+- [Denotas](https://denotas.vercel.app/) - A React frontend & Node.js/Express backend tool for readers to efficiently manage and review Kindle annotations, with intuitive tagging, visual organization and Supabase data storage.
 
 _(More projects coming soon!)_
 
