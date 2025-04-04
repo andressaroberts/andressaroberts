@@ -60,6 +60,7 @@ Here are some repositories where I am practicing and refining my skills:
 
 - [RestAssured Study Lab](https://github.com/andressaroberts/restassured_study_lab) - Exploring API testing with RestAssured
 - [Denotas](https://denotas.vercel.app/) - A React frontend & Node.js/Express backend tool for readers to efficiently manage and review Kindle annotations, with intuitive tagging, visual organization and Supabase data storage.
+- [Hootlink](https://hootlink.vercel.app/) - An in-progress web tool for organizing your links. This site is a QA laboratory actively being used for development and end-to-end testing with Cypress.
 
 _(More projects coming soon!)_
 
